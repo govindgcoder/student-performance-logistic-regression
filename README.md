@@ -8,11 +8,11 @@ It is trained on the [following dataset obtained from kaggle](https://www.kaggle
 
 ## Why This Project Exists
 
-Every new Age Ed-Tech solution have some form of understanding if a student is at risk or not. This project helped me to implement a similar solution.
+Every new Age Ed-Tech solution have some form of way to predict if a student is at risk or not. This project helped me to implement a similar solution.
 
 Also...
 
-The usual way:
+The usual way for linear regression is:
 
 > from sklearn.linear_model import LogisticRegression
 
@@ -33,7 +33,7 @@ Custom implementations of:
 - Accuracy, precision, recall, F1-score
 
 - Direct benchmark vs Scikit-learn
-- Analysis of performance gap (expected 2–5%)
+- Analysis of performance gap
 
 ## Mathematical Foundations (Simplified)
 
