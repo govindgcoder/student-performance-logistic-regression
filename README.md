@@ -12,7 +12,7 @@ Every new Age Ed-Tech solution have some form of way to predict if a student is 
 
 Also...
 
-The usual way for linear regression is:
+The usual way for logistic regression is:
 
 > from sklearn.linear_model import LogisticRegression
 
